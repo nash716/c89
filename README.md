@@ -6,6 +6,8 @@
 
 - `nacl/` 以下
 	- Native Client の章で解説しているチュートリアルの完成品です。
+- `js/` 以下
+	- Chrome Extensions / Apps の章で解説しているサンプルコードです。
 
 ## ライセンス
 
